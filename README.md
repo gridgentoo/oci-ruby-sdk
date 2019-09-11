@@ -1,6 +1,21 @@
 # применения Chef в облаке Oracle, Ruby SDK for Oracle Cloud 
 # oci-ruby-sdk
 
+# Оригинальный репозиторий
+https://github.com/oracle/oci-ruby-sdk
+
+# Chef по обе стороны Bamboo / Артем Семенов (Align Technology, Inc)
+https://www.youtube.com/watch?v=htnFfRvx_6A
+
+# Chef за 21 день. Часть первая. Введение
+https://habr.com/ru/company/epam_systems/blog/208542/
+
+# Chef за 21 день. Часть вторая. Создание и использование cookbook
+https://habr.com/ru/company/epam_systems/blog/209368/
+
+# Chef за 21 день. Часть третья. Chef и AWS
+https://habr.com/ru/company/epam_systems/blog/211050/
+
 # Oracle Cloud Infrastructure Ruby SDK
 **Version 2.6.0**
 
